@@ -41,7 +41,7 @@ Consciousness is not housed in the brain — it emerges through **resonant synch
 ## 📎 Related Links
 
 - [Read on Medium](#) ← *add link once published*
-- [PDF Version v0.1](#) ← *upload to `/versions/` once exported*
+- [Markdown Version v0.1](https://github.com/bronrtorres/the-quantum-mind/blob/main/versions/QuantumMind-v0.1.md)
 
 ---
 
