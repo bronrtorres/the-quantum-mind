@@ -40,7 +40,7 @@ Consciousness is not housed in the brain — it emerges through **resonant synch
 
 ## 📎 Related Links
 
-- [Read on Medium](#) ← *add link once published*
+- [Read on Medium](https://medium.com/@bron_24012/the-quantum-mind-a-living-theory-of-coherence-and-consciousness-8f01831c61a7)
 - [Markdown Version v0.1](https://github.com/bronrtorres/the-quantum-mind/blob/main/QuantumMind-v0.1.md)
 
 ---
