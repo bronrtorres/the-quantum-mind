@@ -1,8 +1,8 @@
 # 🧠 The Quantum Mind: A Living Theory of Coherence and Consciousness
 
 **Author:** Bron R. Torres  
-**Version:** v0.1  
-**Last updated:** 2025-05-14  
+**Version:** v1.0  
+**Last updated:** May 2025  
 
 ---
 
@@ -22,24 +22,20 @@ Consciousness is not housed in the brain — it emerges through **resonant synch
 
 ---
 
-## 🧬 Components in Development
-
-- Quantum trauma as disrupted coherence  
-- RITUAL Framework as applied physics  
-- Somatic coherence maps  
-- Practical exercises for tuning inner resonance  
-
----
-
 ## 📎 Related Links
 
-- [Read on Medium](https://medium.com/@bron_24012/the-quantum-mind-a-living-theory-of-coherence-and-consciousness-8f01831c61a7)
-- [Markdown Version v0.1](https://github.com/bronrtorres/the-quantum-mind/blob/main/QuantumMind-v0.1.md)
+📄 **Full Theory (Markdown)**  
+[QuantumMind-Theory-BronTorres-v1.md](QuantumMind-Theory-BronTorres-v1.md)
+
+📘 **Full PDF (Coming Soon)**  
+QuantumMind-Theory-BronTorres-v1.pdf
+
+🧾 **One-Page Visual Summary**  
+[QuantumMind-OnePager-Bron-Torres-v1.pdf](QuantumMind-OnePager-Bron-Torres-v1.pdf)
 
 ---
 
 ## 🧾 License
 
 Released under **Creative Commons Attribution-ShareAlike 4.0**  
-You are free to remix, adapt, and share — with attribution.  
-[Full License](LICENSE)
+[View License](LICENSE.md)

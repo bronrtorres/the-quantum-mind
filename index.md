@@ -25,11 +25,11 @@ It’s a living model — one that grows through insight, contradiction, and ref
 
 ## 📎 Explore the Theory
 
+- [Full Theory Markdown](QuantumMind-Theory-BronTorres-v1.md)
+- [One-Page Summary (PDF)](QuantumMind-OnePager-Bron-Torres-v1.pdf)
 - [Medium Article](https://medium.com/@bron_24012/the-quantum-mind-a-living-theory-of-coherence-and-consciousness-8f01831c61a7)
-- [Versioned Markdown (v0.1)](https://github.com/bronrtorres/the-quantum-mind/blob/main/QuantumMind-v0.1.md)
 
 ---
 
 ## 🧾 License  
-Published under **Creative Commons BY-SA 4.0**  
-Share freely. Adapt thoughtfully. Attribute always.
+Published under **Creative Commons BY-SA 4.0**
